@@ -134,4 +134,5 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/f49792dd-1409-4663-9d39-e142aca6170e)
 
 # Result:
+
 Thus the program has been executed successfully.
